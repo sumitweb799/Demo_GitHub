@@ -1,2 +1,2 @@
 # Demo_GitHub
-this is first command for Git&amp;GitHub
+this is first command for Git&amp;GitHub .
